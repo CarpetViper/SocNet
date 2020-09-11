@@ -1,0 +1,47 @@
+.profileInfo_cell {
+  max-width: 1180px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.photo {
+  margin: 0 auto;
+  max-width: 12rem;
+  border-radius: 50%;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
+
+.input {
+  max-width: 7.2rem;
+  margin: 0 auto;
+}
+
+.profileData_items, .contacts {
+ text-align: left;
+
+}
+
+.edit, .fullName, .lookingForAJob, .contactsItems, .saveButton {
+ margin: 0.5rem 0;
+}
+
+.aboutMe, .lookingForAJobDescription {
+ word-break: break-all;
+ margin: 0.5rem 0;
+}
+
+.active {
+  color: gold;
+}
+
+.status {
+  margin-bottom: 5rem;
+  text-align: left;
+}
+
+textarea {
+  width: 20rem;
+  height: 8rem;
+  resize: none;
+}

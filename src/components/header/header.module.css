@@ -1,0 +1,23 @@
+.header_row {
+
+}
+
+.header_cell {
+  padding: 1rem 0;
+  display: flex;
+  justify-content: space-between;
+  max-width: 1180px;
+  margin: 0 auto;
+  border-bottom: 3px solid #ccc;
+
+}
+
+.logo {
+  color: #808080;
+
+}
+
+.loginlogout {
+
+  color: #808080;
+}

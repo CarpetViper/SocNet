@@ -1,0 +1,37 @@
+.selectedPage {
+  font-weight: bold;
+}
+
+.paginator {
+  text-align: center;
+  padding: 0;
+
+  max-width: 1180px;
+  margin: 0 auto;
+}
+
+.page_row {
+
+}
+
+.page_cell {
+  max-width: 1180px;
+  margin: 0 auto;
+}
+
+.users_panel {
+
+}
+
+.user {
+  margin: 2rem auto;
+  border-bottom: 1px solid #ccc;
+}
+
+.user_name {
+  margin: 0.5rem auto;
+}
+
+.user_status {
+  margin: 0.5rem auto;
+}

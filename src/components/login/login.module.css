@@ -1,0 +1,10 @@
+.login_row {
+margin: 0 auto;
+max-width: 1180px;
+}
+
+.login_cell {
+  max-width: 300px;
+  margin: 4rem auto;
+  text-align: center;
+}
