@@ -19,7 +19,7 @@
     "redux-thunk": "^2.3.0",
     "reselect": "^4.0.0"
   },
-  "homepage": "https://CarpetViper.github.io/socnet",
+  "homepage": "https://carpetviper.github.io/socnet",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
