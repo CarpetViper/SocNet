@@ -4,15 +4,7 @@ const instance = axios.create({
   withCredentials: true,
   baseURL: 'https://social-network.samuraijs.com/api/1.0/',
   headers: {
-     //'API-KEY':'41ba3a3d-1e56-41b5-9dfc-41a242896377',
-     //'API-KEY':'64ca6c0c-d2d3-472c-b42a-f2849c27004e'
-     //'API-KEY':'d5badcff-fae6-4f62-a7bf-7da5c9b14673',
-     //'API-KEY':'981bfc6a-0b82-4119-ab34-06295e1e45be',
-     //'API-KEY':'446079b3-5e5d-43f9-b313-b5795acbab19'
-    'API-KEY':'e7177fed-4f56-4f21-8042-3483c6f061a1' // drivechannel@yahoo.com
-    //'API-KEY':'af70c230-994a-4bb9-8321-3753352671ff' // temir_jm@yahoo.com
-    //'API-KEY':'80d0d2a9-8a06-482c-8ff0-516917965ccc' //janybekmasud@yahoo.com
-          //'API-KEY':''                                    //enter.channel@yahoo.com
+     'API-KEY':'981bfc6a-0b82-4119-ab34-06295e1e45be'
   }
 });
 
